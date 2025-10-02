@@ -1,4 +1,6 @@
 Hello, this is Hồ Tấn Tài
+'Xin chào, tôi là Hồ Tấn Tài
+>>>>>>> feature-update
 Tôi tên là Hồ Tấn Tài
 tôi có biệt danh là Tèo
 tôi hay ăn bún đậu
@@ -22,3 +24,4 @@ dành nhiều thời gian học cấu trúc dữ liệu và giải thuật
 tìm hiều thêm về các ngôn ngữ mới. thư viện mới
 tìm các dự án để làm lấy kinh nghiệm
 năng cao trình độ tiếng anh
+Conflict resolved on 02/10/2025
