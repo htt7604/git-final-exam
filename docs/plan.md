@@ -11,3 +11,7 @@ Ngày kết thúc: 09/10/2025
 8. Thảo luận với nhóm về project.
 9. Làm quiz Git online.
 10. Tổng kết, nộp báo cáo cuối tuần.
+- Học thêm về Git stash
+- Thực hành lưu thay đổi tạm thời
+- Quản lý nhiều stash song song
+- Thử nghiệm áp dụng stash trở lại
