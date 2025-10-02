@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý bài tập Git
+1. Người dùng có thể tạo bài tập mới.
+2. Người dùng có thể nộp bài tập.
+3. Hệ thống sẽ lưu lịch sử commit.
+4. Có thể xem báo cáo tiến độ học tập.
+5. Hỗ trợ review code giữa các thành viên.
