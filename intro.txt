@@ -15,3 +15,10 @@ Kỹ năng:
 Lập trình C,C++,C#,Python
 Làm việc với git& GitHup
 làm việc nhóm
+
+Kế hoạch học tập:
+viết nhiều  code chương trình
+dành nhiều thời gian học cấu trúc dữ liệu và giải thuật
+tìm hiều thêm về các ngôn ngữ mới. thư viện mới
+tìm các dự án để làm lấy kinh nghiệm
+năng cao trình độ tiếng anh
