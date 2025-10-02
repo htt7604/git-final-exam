@@ -1,0 +1,17 @@
+Giới thiệu cá nhân:
+Tôi tên là Hồ Tấn Tài
+tôi có biệt danh là Tèo
+tôi hay ăn bún đậu
+tôi đang học ở Nam Cần Thơ
+tôi đã có người yêu tên là Lợi
+
+Sở Thích:
+chơi game
+đánh cầu lông 
+tiền
+
+Kỹ năng:
+
+Lập trình C,C++,C#,Python
+Làm việc với git& GitHup
+làm việc nhóm
