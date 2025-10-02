@@ -1,0 +1,3 @@
+Đây là file tạo trực tiếp trên GitHub
+Dùng web editor để chỉnh sửa
+Commit trực tiếp mà không cần local
